@@ -25,7 +25,7 @@
    </center> 
 </h1>
 <div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReCiXVIFyY_6ymlOmFOqhotS24i3Rt953VmbEPkWWht0xKB2XbEOkOKxG5r3R_LZg1-yk&usqp=CAU"width="400" height="300"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReCiXVIFyY_6ymlOmFOqhotS24i3Rt953VmbEPkWWht0xKB2XbEOkOKxG5r3R_LZg1-yk&usqp=CAU"width="300" height="200"/>
 </div>
 Hello there this is Shruti Dhanraj a final year student at NIT Patna. I am an aspiring web developer and an individual who loves to  code. I am ready to enhance my development as well as problem solving skills.
 

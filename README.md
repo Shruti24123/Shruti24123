@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWGFsyMrOqVraJ9u0yWtFsKFM_Kr7_YGgo_YMiHeu6jTITiTiExLWUbOc8r2YoRCdElLo&usqp=CAU" width="400"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWGFsyMrOqVraJ9u0yWtFsKFM_Kr7_YGgo_YMiHeu6jTITiTiExLWUbOc8r2YoRCdElLo&usqp=CAU" width="200"/>
 </div>
 
 <div  id="badges" align="center>

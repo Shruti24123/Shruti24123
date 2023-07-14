@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWGFsyMrOqVraJ9u0yWtFsKFM_Kr7_YGgo_YMiHeu6jTITiTiExLWUbOc8r2YoRCdElLo&usqp=CAU" width="400"/>
 </div>
 
 <div  id="badges" align="center>
@@ -25,7 +25,7 @@
    </center> 
 </h1>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReCiXVIFyY_6ymlOmFOqhotS24i3Rt953VmbEPkWWht0xKB2XbEOkOKxG5r3R_LZg1-yk&usqp=CAU"width="400" height="300"/>
 </div>
 Hello there this is Shruti Dhanraj a final year student at NIT Patna. I am an aspiring web developer and an individual who loves to  code. I am ready to enhance my development as well as problem solving skills.
 
